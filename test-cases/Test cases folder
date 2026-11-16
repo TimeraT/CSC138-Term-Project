@@ -1,1 +1,14 @@
 
+# Monthly Subscription Tracker - Test Cases
+
+| Test | Input | Expected Result |
+|---|---|---|
+| Test 1 | Add a subscription | Subscription is added |
+| Test 2 | Enter subscription cost | Cost is recorded |
+| Test 3 | View subscriptions | Subscription list is displayed |
+| Test 4 | Calculate monthly expenses | Monthly total is calculated |
+| Test 5 | Enter invalid information | Program handles invalid input |
+
+## Testing Notes
+These test cases will be used to check that the Monthly Subscription Tracker works correctly.
+
